@@ -1,6 +1,6 @@
 # Personal Resume Lab
 
-### SEIR0911EC
+### SEBR 0116
 
 ## Requirements :
 - Build a resume!
