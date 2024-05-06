@@ -33,5 +33,8 @@ List any degrees and your GA education.
 - Does my resume focus on accomplishments and results (not mundane duties)
 - Do I use data and metrics as evidence of my achievements?
 
+## Make sure your resume looks good in a responsive format as well!
+- How does it look on your phone in Portrait view, how about in Landscape?
+
 ## Example Resume Template 
 ![Screen Shot 2022-10-12 at 9 48 33 AM](https://user-images.githubusercontent.com/100215009/195360370-b613f7b4-af6b-4534-a7f4-dde7ecd8d625.png)
