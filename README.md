@@ -23,10 +23,6 @@ Showcase your favorite projects and highlight your key skills/programs used. Exp
 #### 5. Education 
 List any degrees and your GA education.
 
-## Tips:
-- wireframe first
-- Keep it clean! Avoid columns, tables, font colors etc. 
-- update often
 
 ## Ask yourself the following questions:
 - Is my resume easy to navigate and read?
