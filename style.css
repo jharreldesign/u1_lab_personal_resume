@@ -1,0 +1,49 @@
+* {
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+html, body {
+    box-sizing: border-box;
+}
+
+h1,h2,h3,h4,h5 { text-transform: uppercase; }
+
+.flex-container-personal {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 0px;
+}
+
+.flex-item-personal {
+    padding: 2px;
+    margin: 2px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.job-description, .skills-used {
+    font-style: italic;
+}
+
+.education {
+    font-weight: bold;
+}
+
+.footer {
+    font-size: 22px;
+    font-style: italic;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.skills {
+    font-weight: bold;
+    font-style: italic;
+}
